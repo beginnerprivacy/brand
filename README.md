@@ -4,8 +4,8 @@ This repository contains resources for the **Beginner Privacy** brand, such as l
 ## Logos
 ### Logo + Text
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beginnerprivacy/brand/main/logos/svg/logo/beginner-privacy-logo-text-dark.svg">
-    <img alt="Beginner Privacy" width="500px" src="https://raw.githubusercontent.com/beginnerprivacy/brand/main/logos/svg/logo/beginner-privacy-logo-text.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beginnerprivacy/brand/main/logos/png/logo/beginner-privacy-logo-text-dark.png">
+    <img alt="Beginner Privacy" width="500px" src="https://raw.githubusercontent.com/beginnerprivacy/brand/main/logos/png/logo/beginner-privacy-logo-text.png">
 </picture>
 
 ### Only Logo
